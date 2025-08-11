@@ -4,7 +4,7 @@ A cutting-edge cryptocurrency platform that enables users to trade, manage portf
 
 ✨ Features
 🤖 AI Chat Bot
-Leverages Gemini API and CoinGecko API to answer crypto-related queries in real-time.\n
+Leverages Gemini API and CoinGecko API to answer crypto-related queries in real-time.
 Provides up-to-date market data, coin values, and insights for informed decision-making.
 
 💱 Buy & Sell Crypto
